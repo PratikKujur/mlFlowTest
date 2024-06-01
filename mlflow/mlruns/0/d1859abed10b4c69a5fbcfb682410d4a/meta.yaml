@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/100devMl/mlflow/mlruns/0/d1859abed10b4c69a5fbcfb682410d4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1859abed10b4c69a5fbcfb682410d4a
+run_name: fortunate-skink-134
+run_uuid: d1859abed10b4c69a5fbcfb682410d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716445620080
+status: 1
+tags: []
+user_id: Prathik
