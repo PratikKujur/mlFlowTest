@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/405778421219520844/7c1f0428174c48d6abcf345d33c7d9d1/artifacts
+end_time: 1734590444676
+entry_point_name: ''
+experiment_id: '405778421219520844'
+lifecycle_stage: active
+run_id: 7c1f0428174c48d6abcf345d33c7d9d1
+run_name: inquisitive-tern-633
+run_uuid: 7c1f0428174c48d6abcf345d33c7d9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734590431370
+status: 3
+tags: []
+user_id: Prathik
